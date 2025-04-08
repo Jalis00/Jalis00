@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## About me
 
 Hey! I'm Jacob Hakimi from **Stockholm, Sweden** 🇸🇪  
@@ -36,4 +34,20 @@ This repository contains my primary school assignments, workshops, and embedded 
 ---
 ## 📜 Certifications
 🎓 View my verified certificates on [Credly](https://www.credly.com/users/jacob-hakimi)
+
+## 📜 Certifications
+
+🎓 View all my verified certificates on [Credly](https://www.credly.com/users/jacob-hakimi)
+
+### 🔹 Cisco Certified Support Technician – Networking
+[![Cisco Networking Badge](https://images.credly.com/size/340x340/images/862650cb-d5d6-4211-bc09-e6791eb4c68a/image.png)](https://www.credly.com/badges/862650cb-d5d6-4211-bc09-e6791eb4c68a)
+
+### 🔹 HTML & CSS Programming Certificate
+[![HTML CSS](https://images.credly.com/size/340x340/images/bad3cae5-2346-4307-8b09-1e0795e0ff6e/image.png)](https://www.credly.com/badges/bad3cae5-2346-4307-8b09-1e0795e0ff6e)
+
+### 🔹 JavaScript Certificate
+[![JavaScript](https://images.credly.com/size/340x340/images/d3f8d665-8c7b-4abf-aadc-40abe1b4aa30/image.png)](https://www.credly.com/badges/d3f8d665-8c7b-4abf-aadc-40abe1b4aa30)
+
+### 🔹 Unity Certified User: Programmer
+[![Unity Badge](https://images.credly.com/size/340x340/images/7ac3ffc2-b09e-44a3-ab6e-8c76427d8751/image.png)](https://www.credly.com/badges/7ac3ffc2-b09e-44a3-ab6e-8c76427d8751)
 
