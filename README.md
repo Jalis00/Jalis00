@@ -14,7 +14,7 @@ Currently studying **Systemutvecklare (SUVx24)** and constantly striving to lear
 🎓 Studying **Systemutvecklare C/C++ – SUVx24** at **Chas Academy**  
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/elis-jacob-hakimi-04b85b201/)
 
-<span style="display:inline-block;background-color:#e63946;color:white;padding:4px 8px;border-radius:5px;">EL- OCH DATATEKNIK (EE18a)</span>
+<span style="display:inline-block;background-color:#e63946;color:white;padding:4px 8px;border-radius:5px;">El- och energiprogrammet med inriktning dator- och kommunikationsteknik (EE18a)</span>
 
 `C` `C#` `Python` `HTML` `CSS` `JavaScript` `Arduino` `PowerShell` `Bash` `SQL`
 
