@@ -10,6 +10,7 @@ Currently studying **Systemutvecklare (SUVx24)** and constantly striving to lear
 
 📌 **[Suvx24-SystemDev](https://github.com/Jalis00/Suvx24-SystemDev)**  
 This repository contains my primary school assignments, workshops, and embedded systems work using C/C++, Arduino, and more.
+
 🟧 `SOFTWARE DEVELOPER`   🟧 `FITNESS COACH`   🟧 `TRAVELER`
 ---
 ## 🧠 Let's Connect
