@@ -31,8 +31,8 @@ This repository contains my primary school assignments, workshops, and embedded 
 [https://simmer.io/@JacobHakimi/blitzspace](https://simmer.io/@JacobHakimi/blitzspace)
 
 🧑‍💻 **Personal Website / Portfolio**  
-
 [https://www.tygym.se/hemee18a/Jacob/index2.html](https://www.tygym.se/hemee18a/Jacob/index2.html)
+
 ---
 ## 📜 Certifications
 🎓 View my verified certificates on [Credly](https://www.credly.com/users/jacob-hakimi)
