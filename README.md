@@ -1,7 +1,3 @@
-# Set path and content
-$readmePath = "README.md"
-
-$readmeContent = @"
 # Hi there 👋
 
 ## 👨‍💻 Whoami
@@ -15,33 +11,7 @@ Currently studying **Systemutvecklare (SUVx24)** and constantly striving to lear
 
 ---
 
-## 🧠 An Easy Way to Connect/Remember Me
+## 🧠 Let's Connect
 
-📎 [LinkedIn – Elis Jacob Hakimi](https://www.linkedin.com/in/elis-jacob-hakimi-04b85b201/)
-
----
-
-## 📚 Courses I’ve Completed (SUVx24)
-
-- 🧠 **Course 1** – Bootcamp for Programmers  
-- 📂 **Course 2** – C/C++  
-- 🖥️ **Course 3** – Operating Systems  
-- ⚙️ **Course 4** – Embedded Systems  
-- 🚀 **Course 5** – Advanced System Development  
-- 🎓 **Thesis** – From my education as a Systemutvecklare  
-
----
-
-## 🛠️ Tools of Trade (Optional – Add what you use)
-
-\`C#\` \`C++\` \`PowerShell\` \`Arduino\` \`Git\` \`VS Code\` \`TinkerCAD\`
-
----
-
-📌 Creator of **JalisAI** | Passionate about growth, freedom, and impact.
-"@
-
-# Create the file
-Set-Content -Path $readmePath -Value $readmeContent
-
-Write-Host "Your README.md has been created successfully!" -ForegroundColor Green
+🎓 Studying **Systemutvecklare C/C++ – SUVx24** at **Chas Academy**  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/elis-jacob-hakimi-04b85b201/)
