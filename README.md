@@ -34,7 +34,3 @@ This repository contains my primary school assignments, workshops, and embedded 
 ---
 ## 📜 Certifications
 🎓 View my verified certificates on [Credly](https://www.credly.com/users/jacob-hakimi)
-
-## 📜 Certifications
-
-🎓 View all my verified certificates on [Credly](https://www.credly.com/users/jacob-hakimi)
